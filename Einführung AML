@@ -1,2 +1,23 @@
 What is Machiene Learning?
+--> Maschienen sollen selbständig lernen mithilfe von Software und Daten ein konkretes Problem zu lósen
+
+Unterschied von Algorithmus:
+Bei beiden Methoden Soll ein Algorithmus entworfen werden, der gegeben eine bestimmte Eingabe, eine Ausgabe liefert!
+
+    Algorithmus: Konkretes Problem -> konkrete Lösung bei dem Wir genaue Schritte definieren!
+Bsp: kürzester weg zwichen zwei knoten (Djkstra: besteht aus einer Flge von schritten um den Pfad zu erreichen)
+
+    Machiene Learning: Eingabe + geünschte Ausgabe
+    --> ML automatically leanr Programs from data (input) using leaerning algorithm
+
+    Der Lösungsansatz kann nicht Präzise definiert werden
+Bsp: Handschrifterkennung: Input Bild - Output Zahl
+
+
+Definition ML:
+1. Forschungsfeld das es ermöglicht Probleme zu lösen, ohne explizit dafür Programmiert worden zu sein 
+2. Ein Computer Lernt mithilfe von **erfahrung E**, ob er besser darin wird ein **Problem (Task) T** zu lösen
+
+
+
 
