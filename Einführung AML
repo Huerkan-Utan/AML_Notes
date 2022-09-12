@@ -22,8 +22,10 @@ Definition ML:
     A Program is set to learn from **experience E** with respect to some **task T** and some performance measure P, if its performance on T, as measured by P, improves with experience E
     
 3. Allgemein: Ein Maschineller Lernalgo. lernt an Erfahrung ob er besser wird ein Problem zu lösen!
-   
 
+    ML Algos learn how to perform Important tasks by generalizing from examples using some Performance metric
+   
+![tep-Metric](../../Studuim/AML/Vorlesungs_Videos/1_Einfu%CC%88hrung/TEP-Metric.png)
 
 
 
