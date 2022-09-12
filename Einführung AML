@@ -18,6 +18,12 @@ Definition ML:
 1. Forschungsfeld das es ermöglicht Probleme zu lösen, ohne explizit dafür Programmiert worden zu sein 
 2. Ein Computer Lernt mithilfe von **erfahrung E**, ob er besser darin wird ein **Problem (Task) T** zu lösen
 
+**Genaue Definition von 2.**: 
+    A Program is set to learn from **experience E** with respect to some **task T** and some performance measure P, if its performance on T, as measured by P, improves with experience E
+    
+3. Allgemein: Ein Maschineller Lernalgo. lernt an Erfahrung ob er besser wird ein Problem zu lösen!
+   
+
 
 
 
